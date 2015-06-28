@@ -7,6 +7,10 @@
 	"AWS_REGION": null,
 	"AWS_ACCESS_KEY": null,
 	"AWS_SECRET_KEY": null,
-	"MEGA_EMAIL": magimech95@gmail.com,
-	"MEGA_PASS": 11206270mag
+	"MEGA_EMAIL": null,
+	"MEGA_PASS": null,
+	"CLIENT_ID": null,
+	"CLIENT_SECRET": null,
+	"REDIRECT_URL": null,
+	"REFRESH_TOKEN": null
 }
